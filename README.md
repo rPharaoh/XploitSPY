@@ -58,14 +58,6 @@ A cloud based Android Monitoring Tool, powered by NodeJS
     
 It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
-
-## Buy us a Coffee
-   Bitcoin : 3HwzRLbZxFVxyZzLoEHFnoB5RVKfzwxDbf
-   
-   Paypal : https://paypal.me/raomk
-
-
-
 ## Disclaimer
 <b>XploitWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
